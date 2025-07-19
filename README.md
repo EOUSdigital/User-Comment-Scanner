@@ -63,8 +63,9 @@ for (let c = 0; c < comments.length; c++) {
         console.log(comment);
     }
 }
-
 ```
+
+---
 
 ### 🧠 Real-World Use:
 This logic is perfect for:
